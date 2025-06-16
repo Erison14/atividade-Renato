@@ -20,3 +20,8 @@ Gerenciar empréstimos e devoluções de livros por usuários em uma biblioteca,
 - **Model** – Manipula dados e regras de negócio (conectado ao SQLite).
 - **View** – Interface de texto (terminal), onde o usuário interage.
 - **Controller** – Regras de negócio e comunicação entre Model e View.
+
+
+## Banco de Dados: SQlite
+
+o banco de dados se encontra no bd.js
