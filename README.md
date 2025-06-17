@@ -3,6 +3,8 @@
 
  Sistema de Gestão de Biblioteca (SGB)
 
+ quando for rodar digite "npm install" no terminal para instalar os pacotes para necessarios
+
  para rodar o codigo basta digitar "node view.js" no terminal
 
 Este projeto é um **módulo de empréstimos e devoluções** de livros, desenvolvido com **JavaScript (Node.js)** e banco de dados **SQLite**, seguindo o padrão de arquitetura **MVC (Model-View-Controller)**.
