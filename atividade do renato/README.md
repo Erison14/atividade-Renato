@@ -1,6 +1,6 @@
 ## Sistema de Gestão de Biblioteca (SGB)
 
-## quando for rodar digite "npm install" no terminal para instalar os pacotes para necessarios
+## quando for rodar digite "npm install" no terminal para instalar os pacotes necessarios
 
 ## para rodar o codigo basta digitar "node view.js" no terminal
 
